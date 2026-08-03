@@ -10,16 +10,16 @@ Frontend developer and software engineering student, working towards full-stack.
 
 ```
 .
-├── frontend/          # Frontend AI Engineering track — one folder per week
-│   ├── week-01
-│   └── week-02
-|   .......(other weeks folders)
-├── ai-fluency/         # AI Fluency track — one folder per week
-│   └── week-01/
-|   └── week-02/
-|   .......(other weeks folders)
+├── Frontend AI engineering/   # Frontend AI Engineering track — one folder per week
+│   ├── week 1/
+│   ├── week 2/
+│   └── ... (other week folders)
+├── AI Fluency/                # AI Fluency track — one folder per week
+│   ├── week 1/
+│   └── ... (other week folders)
 ├── LICENSE
-└── README.md           # you are here
+├── .gitignore
+└── README.md                  # you are here
 ```
 
 Each week's folder contains its own README with the task summary, what was submitted, and links to any relevant branches or screenshots.

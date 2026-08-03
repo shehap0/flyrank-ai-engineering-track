@@ -24,8 +24,8 @@ docs: apply AI-suggested README improvement
 
 ## Deliverable
 
-- Repo: [[link to repo](https://github.com/shehap0/flyrank-ai-engineering-track/tree/main/Frontend%20AI%20engineering/week%201)]
-- Screenshot: `screenshot.png` (OpenCode critiquing the README / completing a task in this environment)
+- Repo: [link to repo](https://github.com/shehap0/flyrank-ai-engineering-track/tree/main/Frontend%20AI%20engineering/week%201)
+- Screenshot: `opencode.png` (OpenCode critiquing the README / completing a task in this environment)
 
 ## Notes
 
