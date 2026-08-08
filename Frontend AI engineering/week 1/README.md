@@ -11,16 +11,8 @@ Set up a working AI-assisted development environment and establish the repo conv
 
 1. Installed Node.js (LTS) and Git; set up OpenCode as my AI coding assistant.
 2. Created the capstone repo with a README stub, MIT license, `.gitignore`, and a `CLAUDE.md` describing the stack and conventions.
-3. Made three commits in Conventional Commits format (see below).
+3. Made three commits in Conventional Commits format.
 4. Asked OpenCode to critique the README and applied one of its suggested improvements.
-
-## Commits
-
-```
-chore: initialize repo with README, license, gitignore
-docs: add CLAUDE.md describing stack and conventions
-docs: apply AI-suggested README improvement
-```
 
 ## Deliverable
 
